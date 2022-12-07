@@ -42,7 +42,7 @@ header{
 header > h1 {
   color:var(--neutral-very-blue);
   font-weight:800;
-  font-size:2rem;
+  font-size:1.5rem;
   display:flex;
   align-items:flex-end;
   gap:10px;
@@ -52,7 +52,7 @@ header > h1 {
   background:var(--primary-blue);
   display:inline-flex;
   text-align:center;
-  font-size:1.5rem;
+  font-size:1rem;
   color:var(--netural-white);
   text-align:center;
   padding:.2rem .5rem;
@@ -71,7 +71,7 @@ section {
 }
 
 .bg-blue{
-  background-color:var(--light-grayish-2);
+  background-color:var(--neutral-very-light-blue);
 }
 
 .tag{
